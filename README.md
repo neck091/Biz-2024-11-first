@@ -11,6 +11,7 @@
 - 컴퓨터 포멧했을 때 최초 한번만
 - user.name 등록 : ** git config --global neck091
 - email 등록 : **git config --global user.email cjstk_05@naver.com** 
+
 ## 로컬 Repository 생성하기
 - **bash shell** 에서 **git init** 명령 실행하기 : **.git** 폴더가 생성된다.
 
@@ -18,4 +19,6 @@
 
 ## 원격 Repository에 push 하기
 - 로컬 폴더의 파일, 폴더들을 로컬 Repository에 압축하여 저장하기 **git add README.md**
-- 왜 push를 하는지 comment 부착하기 : **git commit -m "커멘"
+- 왜 push를 하는지 comment 부착하기 : **git commit -m "커멘트"**
+- push하기
+
