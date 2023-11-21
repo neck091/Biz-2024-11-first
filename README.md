@@ -9,7 +9,7 @@
 
 ## repository 정보 등록
 - 컴퓨터 포멧했을 때 최초 한번만
-- user.name 등록 : ** git config --global neck091
+- user.name 등록 : **git config --global neck091**
 - email 등록 : **git config --global user.email cjstk_05@naver.com** 
 
 ## 로컬 Repository 생성하기
